@@ -1,3 +1,4 @@
 html,body{margin:0;padding:0;background-color:black;color:white;}
-.header{background-color:#222428;color:white;display:flex; flex-direction: row;justify-content: space-between;}
-.head-container{max-width:1200px;margin:0 auto;}
+.header{background-color:#222428;color:white;display:flex; flex-direction: column;justify-content: space-between;}
+/*.head-container{max-width:1200px;margin:0 auto;width:100%}*/
+.header-btn{color:black;border:1px solid white;border-radius:20px;font-size:12px;line-height:10px;padding:9px 20px 7px;}
